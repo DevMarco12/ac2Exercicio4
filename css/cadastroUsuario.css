@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&family=Source+Code+Pro:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans+Condensed:wght@300;700&family=Source+Code+Pro:wght@900&display=swap');
+
+header {
+    font-family: 'Lobster', cursive;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+form {
+    margin-top: 10%;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+}
+
+form h1 {
+    margin-left: 35%;
+    color: red;
+    text-transform: uppercase;
+}
+
+form .salvar {
+    margin-left: 20%;
+    display: inline-block;
+    background-color: red;
+    width: 20%;
+}
+
+form .limpar {
+    margin-left: 20%;
+    display: inline-block;
+    background-color: green;
+    width: 20%;
+}
+
+footer {
+    font-family: 'Lobster', cursive;
+    margin-top: 20%;
+    font-size: 20px;
+}
+
+/* Responsivo para celular */
+@media (min-width: 320px) and (max-width: 480px) {
+    form h1 {
+        margin-left: 5px;
+        margin-top: 30%;
+    }
+
+    footer {
+        margin-top: 75%;
+    }
+}
