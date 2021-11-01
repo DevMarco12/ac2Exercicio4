@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&family=Source+Code+Pro:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans+Condensed:wght@300;700&family=Source+Code+Pro:wght@900&display=swap');
+
+body {
+    background: url("../assets/home1.jpg");
+}
+
+header {
+    font-family: 'Lobster', cursive;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+.conteudoPrincipal {
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    width:30em;
+    height:18em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+    background-color: #f3f3f3;
+    display: inline;
+}
+
+.conteudoPrincipal h1 {
+    font-family: 'Lobster', cursive;
+    margin-left: 26%;
+    font-size: 30px;
+}
+
+.conteudoPrincipal button {
+    font-family: 'Lobster', cursive;
+    width: 50%;
+    padding: 5px;
+    margin: 20px;
+    margin-left: 25%;
+    background-color: red;
+    color: #FFFF;
+}
+
+footer {
+    font-family: 'Lobster', cursive;
+    margin-top: 48%;
+    font-size: 20px;
+}
+
+/* Responsivo para celular */
+@media (min-width: 320px) and (max-width: 480px) {
+    footer {
+        margin-top: 200%;
+    }
+}
