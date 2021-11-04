@@ -1,5 +1,5 @@
-# Facens - AC2 (Programação Front-end) - Exercício 4
-Exercício de cadastro de curso e usuário usando API
+# Facens - AC2 (Programação Front-end) - Exercício 4 / Exercício 5
+Exercício de cadastro de cursos e usuários usando API (CRUD)
 
 <h1>Tela Inicial</h1>
 
