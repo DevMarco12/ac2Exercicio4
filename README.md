@@ -11,11 +11,20 @@ Exercício de cadastro de curso e usuário usando API
 
 <h1>Tela de Cadastro de Usuário</h1>
 
-![image](https://user-images.githubusercontent.com/63882166/139609246-22a3b6e3-e296-4813-8097-f714f19f77b0.png)
+![image](https://user-images.githubusercontent.com/63882166/140238151-d05fd606-d3e8-4747-a8d0-14cf2a26212f.png)
 
 <h1>Tela de Cadastro de Cursos</h1>
 
-![image](https://user-images.githubusercontent.com/63882166/139609274-f910699b-e5a4-471b-a798-48f506004858.png)
+![image](https://user-images.githubusercontent.com/63882166/140238114-0eff1fe2-c14b-4a61-9407-de7cb882eab3.png)
+
+<h1>Tela de Lista de Cursos</h1>
+
+![image](https://user-images.githubusercontent.com/63882166/140238062-2218b8a9-b145-42e6-a71e-b763792c1d06.png)
+
+<h1>Modal de Cadastro de Curso</h1>
+
+![image](https://user-images.githubusercontent.com/63882166/140238201-7b23baa7-e489-4dcb-bc46-0c3f246d6e9c.png)
+
 
 <h1>Responsivo</h1>
 
@@ -35,12 +44,15 @@ Exercício de cadastro de curso e usuário usando API
 
 ![image](https://user-images.githubusercontent.com/63882166/139609453-3f275b2b-0034-474a-8a67-21da3487fd12.png)
 
+<h2>Modal de Cadastro de Cursos</h2>
+
+![image](https://user-images.githubusercontent.com/63882166/140238407-87e0eb75-631f-41ee-999c-5c886860a143.png)
+
 <h1>MockAPI Informações</h1>
 
 ![image](https://user-images.githubusercontent.com/63882166/139609595-2e255b14-a99d-4271-9ed0-6fcf22ae59c3.png)
 
-![image](https://user-images.githubusercontent.com/63882166/139609627-5d3b50df-932b-4517-ad20-19ae8fc61d16.png)
-
+![image](https://user-images.githubusercontent.com/63882166/140238266-23bb3381-bd01-4119-adac-d5d34da5146d.png)
 
 
 
